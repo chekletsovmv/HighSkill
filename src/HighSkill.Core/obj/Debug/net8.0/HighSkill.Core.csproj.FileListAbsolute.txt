@@ -1,0 +1,12 @@
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/bin/Debug/net8.0/HighSkill.Core.deps.json
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/bin/Debug/net8.0/HighSkill.Core.dll
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/bin/Debug/net8.0/HighSkill.Core.pdb
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/HighSkill.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/HighSkill.Core.AssemblyInfoInputs.cache
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/HighSkill.Core.AssemblyInfo.cs
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/HighSkill.Core.csproj.CoreCompileInputs.cache
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/HighSkill.Core.sourcelink.json
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/HighSkill.Core.dll
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/refint/HighSkill.Core.dll
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/HighSkill.Core.pdb
+/Users/michael/Desktop/HighSkill/src/HighSkill.Core/obj/Debug/net8.0/ref/HighSkill.Core.dll

@@ -1,9 +1,13 @@
 ﻿<Properties StartupConfiguration="{60BE8977-E27D-4F40-A0F0-727E1878EF84}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HighSkill.API" expanded="True" selected="True" />
+          <Node name="HighSkill.API">
+            <Node name="HighSkill.API" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -11,8 +15,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.HighSkill.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
