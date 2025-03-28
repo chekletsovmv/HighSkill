@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HighSkill.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c4a0c2be97d3633b5cd9b6326c3a0ee0c0891e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3720ef6c1e0afd11e8eff175923be2d0d5c1c524")]
 [assembly: System.Reflection.AssemblyProductAttribute("HighSkill.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HighSkill.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
